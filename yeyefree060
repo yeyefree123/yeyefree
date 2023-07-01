@@ -1,9 +1,9 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.1",
+"Version":"1.2",
 //link for server update
 "Url":"https://github.com/yeyefree123/yeyefree/raw/main/yeyefree060.zip" ,
-"Changelog":"ကြိုက်တာရေးထည့်ပါ
+"Changelog":"ကြိုက်တာရေးထည့်ပါ ကျနော် အင်တာနက် 👉free👈သုံးတဲ့သူများအထူးကျွေးဇူးတင်ပါတယ်👉ဘိတ်သားလေ👈👉ရဲငယ်👈
 ",
 // don't mess with the bottom
 "latestVersion": "1.0.0",
