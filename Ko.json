@@ -1,64 +1,29 @@
 {
-   "files": [    
 
+// version for updating, if there is an update, need to change more numbers than before
 
+"Version":"1.9",
 
-{
-         "name": "TH-VIP-DTAC-01",
-         "url": "https://raw.githubusercontent.com/yeyefree123/yeyefree/main/TH-TRUE-DTAC.ovpn"
-      }
-,
-{
-         "name": "TH-VIP-DTAC-02",
-         "url": "https://raw.githubusercontent.com/yeyefree123/yeyefree/main/TH-DTAC-000.ovpn"
-      }   
-,
-{
-         "name": "TH-VIP-DTAC-03",
-         "url": "https://raw.githubusercontent.com/yeyefree123/yeyefree/main/TH-DTAC-000.ovpn"
-      }   
-,
-{
-         "name": "TH-VIP-DTAC-04",
-         "url": "https://raw.githubusercontent.com/yeyefree123/yeyefree/main/TH-DTAC-000.ovpn"
-      }   
-,
-{
-         "name": "TH-VIP-DTAC-05",
-         "url": "https://raw.githubusercontent.com/yeyefree123/yeyefree/main/TH-DTAC-000.ovpn"
-      }   
-,
-{
-         "name": "TH-VIP-True-01",
-         "url": "https://raw.githubusercontent.com/yeyefree123/yeyefree/main/TH-DTAC-000.ovpn"
-      }
-,
-{
-         "name": "TH-VIP-True-02",
-         "url": "https://raw.githubusercontent.com/yeyefree123/yeyefree/main/TH-DTAC-000.ovpn"
-      }
-,   
-{
-         "name": "TH-VIP-True-03",
-         "url": "https://raw.githubusercontent.com/yeyefree123/yeyefree/main/TH-DTAC-000.ovpn"
-      }   
- ,
-{
-         "name": "TH-VIP-True-04",
-         "url": "https://raw.githubusercontent.com/yeyefree123/yeyefree/main/TH-DTAC-000.ovpn"
-      }   
- ,            
- {
-         "name": "TH-VIP-True-05",
-         "url": "https://raw.githubusercontent.com/yeyefree123/yeyefree/main/TH-DTAC-000.ovpn"
-      }  
-      
-     
-   ],
-"message":"
-မြန်မာပြည့်သာအာလုံးကြိုဆိုပါတယ်
-\n\nFb: freeYeYe",
-"title":"ဖိုင်အသစ်အပ်ဒိတ်ပါ" ,
-   😘😘😘😘😘😘😘😘
-   "version":12
-     }
+//link for server update
+
+"Url":"https://raw.githubusercontent.com/yeyefree123/yeyefree/main/Ko.json" ,
+
+"Changelog":"ကြိုက်တာရေးထည့်ပါ
+
+",
+
+// don't mess with the bottom
+
+"latestVersion": "1.0.0",
+
+"latestVersionCode": "1",
+
+"url": "",
+
+ "releaseNotes": [
+
+  "-Demo"
+
+    ]
+
+    }
